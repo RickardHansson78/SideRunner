@@ -17,5 +17,5 @@ Talking about class 2 goes here
 I also used Unreal's container classes and methods to...some kind of interesting appeal goes here.
 
 Part 2
-Not done yet, write more about this later.
+
 Make part 2 with a quit and have problem with 2 charactors and score in the end of the level the game crashes and crashers also then i compile the game too.
