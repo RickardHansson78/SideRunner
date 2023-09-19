@@ -18,4 +18,4 @@ I also used Unreal's container classes and methods to...some kind of interesting
 
 Part 2
 
-Make part 2 with a quit and have problem with 2 charactors and score in the end of the level the game crashes and crashers also then i compile the game too.
+Make part 2 with a quit and have 2 charactors and no score in the end of the level the game.
